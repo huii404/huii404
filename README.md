@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm huii404 👋
 
-<!--
-**huii404/huii404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Learning programming and software development  
+🌱 Currently improving my coding skills through small projects
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student interested in learning how software and web applications are built.
+
+I use GitHub to store my learning projects, practice coding, and explore different technologies.
+
+I'm still learning and improving step by step. 🚀
+
+## 📚 Currently Learning
+
+- C#
+- Java
+- Web Development
+- Git & GitHub
+- Basic Database / SQL
+- Basic software development concepts
+
+## 🛠️ Technologies I've Used
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,java,html,css,js,mysql,git,github,vscode,visualstudio" />
+</p>
+
+## 📂 What You'll Find Here
+
+Most of my repositories are:
+
+- 📖 University exercises
+- 🧪 Programming practice
+- 🌐 Small web projects
+- 💡 Personal learning projects
+- 🔧 Experiments with new technologies
+
+## 🎯 Current Goal
+
+Build a stronger programming foundation and gain more experience by creating real projects.
+
+---
+
+⭐ Learning • Building • Improving
