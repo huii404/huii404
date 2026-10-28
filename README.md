@@ -1,89 +1,95 @@
 <div align="center">
 
-# 👋 Hi, I'm huii404
+<!-- BANNER TERMINAL HIỆN ĐẠI -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=220&section=header&text=Huii404&fontSize=68&fontColor=ffffff&fontAlignY=42&desc=COMPUTER%20SCIENCE%20STUDENT%20%E2%80%A2%20SOFTWARE%20DEVELOPER&descSize=16&descAlignY=64&descAlign=50" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%F0%9F%8E%93;Learning+Programming+%26+Web+Development+%F0%9F%92%BB;C+%7C+C%2B%2B+%7C+C%23+%7C+Java+%7C+Python;Learning+%E2%80%A2+Building+%E2%80%A2+Improving+%F0%9F%9A%80" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=huii404&label=PROFILE+VIEWS&style=for-the-badge" />
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-🎓 I'm a **Computer Science student** currently learning programming and software development.
-
-🌱 I'm still exploring different technologies and improving my programming skills step by step.
-
-💻 I use GitHub to store my learning projects, practice code, and experiment with new ideas.
-
-🚀 My goal is to build a strong programming foundation and gain more experience through real projects.
-
----
-
-## 💻 Languages I'm Learning
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,html,css,js&perline=8" />
+<!-- HIỆU ỨNG GÕ CHỮ TYPING SVG DẠNG TERMINAL -->
+<a href="https://github.com/huii404">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=%E2%9C%A8+Computer+Science+Student+%F0%9F%8E%93;%F0%9F%9A%80+Exploring+Systems%2C+Tools+%26+Algorithms;%F0%9F%92%BB+C+%7C+C%2B%2B+%7C+C%23+%7C+Java+%7C+Python;%F0%9F%94%A7+Building+reproducible+%26+clean+setups;%E2%9A%A1+Always+learning%2C+always+improving." alt="Typing SVG" />
+</a>
 
 <br><br>
 
-![C](https://img.shields.io/badge/C-Learning-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Learning-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-Learning-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Learning-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-<br>
-
-![HTML5](https://img.shields.io/badge/HTML5-Learning-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Learning-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<!-- PROFILE VIEWS COUNTER -->
+<img src="https://komarev.com/ghpvc/?username=huii404&style=for-the-badge&color=007acc&label=VISITORS" alt="Visitor Count" />
 
 </div>
 
 ---
 
-## 🗄️ Database
+### 🖥️ `huii404@github:~$ cat profile.json`
+
+```json
+{
+  "name": "huii404",
+  "status": "Computer Science Student 🎓",
+  "location": "Vietnam 🇻🇳",
+  "core_languages": ["C", "C++", "C#", "Python", "Java"],
+  "interests": ["System Optimization", "OS Customization", "DevOps & Tooling", "Algorithms"],
+  "current_focus": "Building solid foundations & crafting reliable developer setups",
+  "philosophy": "Small improvements every day lead to massive results."
+}
+```
+
+---
+
+### 🛠️ Languages & Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql" />
+<!-- SKILL ICONS HIỆN ĐẠI -->
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,html,css,js,mysql,git,github,vscode,visualstudio,powershell,linux&perline=8" />
 
 <br><br>
 
-![SQL](https://img.shields.io/badge/SQL-Learning-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<!-- PILL BADGES THEO PHONG CÁCH IRIS LIN -->
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
 </div>
 
 ---
 
-## 🛠️ Tools
+### 📊 GitHub Activity & Real-time Stats
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+<!-- THẺ THỐNG KÊ GITHUB DARK THEME (TOKYO NIGHT) -->
+<a href="https://github.com/huii404">
+  <img src="https://github-readme-stats.vercel.app/api?username=huii404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huii404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" alt="Top Languages" />
+</a>
 
 <br><br>
 
-![Git](https://img.shields.io/badge/Git-Using-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Using-181717?style=for-the-badge&logo=github&logoColor=white)
+<!-- CHUỖI STREAK STATS -->
+<a href="https://github.com/huii404">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huii404&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</a>
 
 </div>
 
 ---
 
-## 📚 What I'm Currently Doing
+### 🐍 Contribution Activity
 
-```text
-📖 Learning       → Computer Science & Programming
-💻 Practicing     → C / C++ / C# / Java / Python
-🌐 Exploring      → HTML / CSS / JavaScript
-🗄️ Database       → SQL
-🔧 Version Control → Git & GitHub
-🧩 Projects       → Small learning & personal projects
-🚀 Goal           → Learn, build, and improve step by step
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huii404/huii404/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huii404/huii404/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/huii404/huii404/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+---
+
+<div align="center">
+
+💬 *“The only way to learn a new programming language is by writing programs in it.”*  
+⭐ *Thanks for stopping by my profile!*
+
+</div>
